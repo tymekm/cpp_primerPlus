@@ -1,4 +1,8 @@
-<h1>Programming exercises from "C++ Primer Plus"</h1>
-<p>To build compile the standalone .cpp files. <\br>
-The multifile programs are supplied with Makefiles so a<code>make</code> will do.
-</p>
+# Programming exercises from "C++ Primer Plus"
+To build compile the standalone .cpp files. 
+The multi file programs are supplied with Makefiles so a simple
+```
+make .
+```
+will do.
+
