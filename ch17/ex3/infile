@@ -1,0 +1,7 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+
+using std::string;
+
+int main(int argc, const char *argv[])
